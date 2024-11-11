@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #070147;
+}
+
+.forms {
+    width: 50%;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 50px 50px 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #070147;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="email"],
+input[type="file"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #070147;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    float: left;
+    margin-right: 2%;
+    border-radius: 5px;
+}
