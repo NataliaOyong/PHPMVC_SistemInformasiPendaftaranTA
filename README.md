@@ -9,13 +9,13 @@ Features
 - Final Project Registration Form: Students can complete the final project registration form by entering data such as name, NIM, department, thesis title, supervisor-approved proposal, academic transcript (KHS) per semester, and proof of tuition payment.
 
 Technology Stack
-PHP - Main programming language
-MVC Architecture - Model-View-Controller architecture pattern
-HTML, CSS, JavaScript - For the user interface
-MySQL - Local database for data storage
-Apache - Local server, part of XAMPP or LAMP
+- PHP - Main programming language
+- MVC Architecture - Model-View-Controller architecture pattern
+- HTML, CSS, JavaScript - For the user interface
+- MySQL - Local database for data storage
+- Apache - Local server, part of XAMPP or LAMP
 
 Prerequisites
-XAMPP or LAMP - For local Apache and MySQL server
-Composer - For managing PHP dependencies
-Web Browser - Chrome, Firefox, or any modern browser
+- XAMPP or LAMP - For local Apache and MySQL server
+- Composer - For managing PHP dependencies
+- Web Browser - Chrome, Firefox, or any modern browser
