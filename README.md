@@ -19,3 +19,5 @@ Prerequisites
 - XAMPP or LAMP - For local Apache and MySQL server
 - Composer - For managing PHP dependencies
 - Web Browser - Chrome, Firefox, or any modern browser
+
+![Cuplikan layar 2024-11-11 082227](https://github.com/user-attachments/assets/a462497f-f9c0-43c2-a9fa-be0955b650fe)
