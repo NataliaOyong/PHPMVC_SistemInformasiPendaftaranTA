@@ -1,4 +1,4 @@
-# PHP_MVC_SIPTA
+# Final Project Registration Information System
 
 The Final Project Registration Information System is a web-based application built using the PHP MVC architecture. This system is designed to facilitate students in managing their final project registration and related information about their supervisors. This project is developed as part of the Object-Based Service Development Project (PPLBO).
 
